@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M.Can</h1>
+<h1 align="center">Welcome Page</h1>
 <h3 align="center">Deep Learning Researcher / Engineer at Visiosoft</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcvarer" alt="mcvarer" /> </p>
