@@ -1,11 +1,11 @@
 <h1 align="center">Welcome Page</h1>
-<h3 align="center">Deep Learning Researcher / Engineer at Visiosoft</h3>
+<h3 align="center">Data Scientist & ML/AI Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcvarer" alt="mcvarer" /> </p>
 
-- 🔭 I’m currently working on **AI for GIS**
+- 🔭 I worked on  **AI for GIS** [2020-2022]
 
-- 📫 How to reach me **murat@visiosoft.com.tr**
+- 📫 How to reach me **report.mcanv@outlook.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
