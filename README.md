@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcvarer" alt="mcvarer" /> </p>
 
+- 🔭 I currently work on  **ML/AI for Medical** [2022 - contiune]
+
 - 🔭 I worked on  **AI for GIS** [2020-2022]
 
 - 📫 How to reach me **report.mcanv@outlook.com**
