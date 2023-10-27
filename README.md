@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcvarer" alt="mcvarer" /> </p>
 
-- 🔭 I currently work on  **R & D Computer Vision Engineer** [2023 - still]
+- 🔭 I currently work on  **Computer Vision Engineer & Computational Geometry** [2023 - still]
 
 - 🔭 I worked on  **ML/AI for Medical** and **Turkcell ChatBot Worker** [2022 - 2023] 6 months
 
 - 🔭 I worked on  **AI for GIS** [2020-2022]
 
-- 📫 How to reach me **report.mcanv@outlook.com**
+- 📫 How to reach me **contact@mcvarer.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
